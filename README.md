@@ -72,6 +72,6 @@ To be a house owner choose role as **Owner**.\
 To be a user choose role as **User**.
 
 ## Sample DB Data
-Sample data are in Assest folder.\
+Sample data are in sample_data folder.\
 connect mongodb with url `mongodb://localhost:27017/G-Room`\
 Load the json file in corresponding collection names.
