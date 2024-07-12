@@ -57,7 +57,7 @@ const CreateRoomForm = () => {
       });
       setAmenitiesField('');
       setPhotosField('');
-      navigate('/rooms/owner')
+      navigate('/room/owner')
     } catch (error) {
       console.error('Failed to create room:', error);
       toast.error('Failed to create room. Please try again.');

@@ -2,7 +2,6 @@ const Room = require('../models/Room');
 
 exports.createRoom = async (req, res) => {
   const { name, floorSize, numberOfBeds, amenities, minBookingDays, maxBookingDays, rentPerDay, photos,address } = req.body;
-  console.log(req);
 
   try {
     const newRoom = new Room({

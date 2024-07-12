@@ -67,7 +67,7 @@ const RoomCard = ({ room, toDate, fromDate, ishome, isOwner,change,setChange }) 
           Amenities: {room.amenities.join(', ')}
         </p>
         <p className="text-gray-700 text-base">
-          Rent: ${room.rentPerDay} per day
+          Rent: ₹ {room.rentPerDay} per day
         </p>
         
       </div>

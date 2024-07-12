@@ -70,7 +70,7 @@ const AdminRooms = () => {
                             <p className="text-gray-700 text-base">Floor Size: {room.floorSize} sq. ft.</p>
                             <p className="text-gray-700 text-base">Beds: {room.numberOfBeds}</p>
                             <p className="text-gray-700 text-base">Amenities: {room.amenities.join(', ')}</p>
-                            <p className="text-gray-700 text-base">Rent: ${room.rentPerDay} per day</p>
+                            <p className="text-gray-700 text-base">Rent: ₹ {room.rentPerDay} per day</p>
                         </div>
                         <div className="flex justify-end gap-2">
                             <Button fullWidth

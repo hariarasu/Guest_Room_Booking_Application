@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "6690c37fe49fd75cd2bdc6b4"
+  },
+  "name": "linga",
+  "email": "linga@gmail.com",
+  "password": "$2a$10$Cu0uj3mMVZZul4q2QIt9t.o64mJtvswHmzl9nxmC7ztyLn/OkMCtC",
+  "mobile": "9488612111",
+  "role": "owner",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6690ce4bcb4e41acb678f51b"
+  },
+  "name": "Hari",
+  "email": "hariarasur.21aid@kongu.edu",
+  "password": "$2a$10$MlG0etTuEfzxKC8.H11A.uwWN.au8IsgIGJDV7VrBI7QfIjJIytvO",
+  "mobile": "9488612111",
+  "role": "owner",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6690d04fcb4e41acb678f534"
+  },
+  "name": "Akil",
+  "email": "akil@gmail.com",
+  "password": "$2a$10$g8QuNk8gJ8rx3vFWEUJASubfWTrB7.t0FPblB3E7N3ORPXKIjw9QO",
+  "mobile": "1234567890",
+  "role": "user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6691037acb4e41acb678f570"
+  },
+  "name": "hariarasu",
+  "email": "admin@gmail.com",
+  "password": "$2a$10$P7BD9VU/jY4ifv2OQdabgetfZ70vm.7lsyVgzA2mMAfPwat6rGnU2",
+  "mobile": "9488612111",
+  "role": "admin",
+  "__v": 0
+}]

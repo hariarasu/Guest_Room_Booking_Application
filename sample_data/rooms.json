@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "6690cbbd195d109c57c75ae4"
+  },
+  "owner": {
+    "$oid": "6690c37fe49fd75cd2bdc6b4"
+  },
+  "name": " Saffron Haven",
+  "address": "Chennai",
+  "floorSize": 150,
+  "numberOfBeds": 2,
+  "amenities": [
+    "Ac",
+    "Wifi"
+  ],
+  "minBookingDays": 1,
+  "maxBookingDays": 20,
+  "rentPerDay": 1000,
+  "photos": [
+    "https://t3.ftcdn.net/jpg/06/19/00/08/360_F_619000872_AxiwLsfQqRHMkNxAbN4l5wg1MsPgBsmo.jpg"
+  ],
+  "bookings": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6690cd84cb4e41acb678f512"
+  },
+  "owner": {
+    "$oid": "6690c37fe49fd75cd2bdc6b4"
+  },
+  "name": " Lotus Retreat",
+  "address": "Erode",
+  "floorSize": 100,
+  "numberOfBeds": 2,
+  "amenities": [
+    "Ac",
+    "Non-Ac",
+    "Free-Wifi"
+  ],
+  "minBookingDays": 2,
+  "maxBookingDays": 20,
+  "rentPerDay": 1500,
+  "photos": [
+    "https://images.unsplash.com/photo-1611892440504-42a792e24d32?fm=jpg&w=3000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG90ZWwlMjByb29tfGVufDB8fDB8fHww",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNZz7kwAXLDxzJA1RuECok9WDxvt3Ss96YXLCm-ZELwG_c9CeiOwl_mw7ldzg4s_E5C4c&usqp=CAU"
+  ],
+  "bookings": [
+    {
+      "id": {
+        "$oid": "6690d098cb4e41acb678f543"
+      },
+      "startDate": "12-07-2024",
+      "endDate": "17-07-2024",
+      "_id": {
+        "$oid": "6690d098cb4e41acb678f546"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6690ce04cb4e41acb678f516"
+  },
+  "owner": {
+    "$oid": "6690c37fe49fd75cd2bdc6b4"
+  },
+  "name": " Silkwood Villa",
+  "address": "Coimbatore",
+  "floorSize": 200,
+  "numberOfBeds": 4,
+  "amenities": [
+    "Ac",
+    "Non-Ac",
+    "Free-Wifi",
+    "Food"
+  ],
+  "minBookingDays": 2,
+  "maxBookingDays": 40,
+  "rentPerDay": 2000,
+  "photos": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvM7JgK1-UlKLD7ajimXkgaOhrPYiUwewL6g&s",
+    "https://cache.marriott.com/content/dam/marriott-renditions/SZXXR/szxxr-grand-7951-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*"
+  ],
+  "bookings": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6690cec8cb4e41acb678f523"
+  },
+  "owner": {
+    "$oid": "6690ce4bcb4e41acb678f51b"
+  },
+  "name": "\t Royal Oasis",
+  "address": "Namakkal",
+  "floorSize": 180,
+  "numberOfBeds": 3,
+  "amenities": [
+    "Ac",
+    "Non-Ac",
+    "Free-Wifi"
+  ],
+  "minBookingDays": 3,
+  "maxBookingDays": 15,
+  "rentPerDay": 1800,
+  "photos": [
+    "https://i.pinimg.com/originals/ef/39/c9/ef39c925f59c5fdb013a339e75ea2edb.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrhEiEi4_1vOb3kRiFaRFIKKWfHHVUlwqA5KLpet5ECm-26U8ZUcpOBt7WS0v-qu85DJY&usqp=CAU",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQGRXESySnpCudxQgco58MbPglS6VLV7FN3hU_FSFl8-A4TvMt9sxHHdFkDO8zPhO3Ok&usqp=CAU"
+  ],
+  "bookings": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6690cf25cb4e41acb678f527"
+  },
+  "owner": {
+    "$oid": "6690ce4bcb4e41acb678f51b"
+  },
+  "name": " Golden Glade",
+  "address": "Salem",
+  "floorSize": 250,
+  "numberOfBeds": 5,
+  "amenities": [
+    "Ac",
+    "Non-Ac",
+    "Free-Wifi",
+    "Food"
+  ],
+  "minBookingDays": 3,
+  "maxBookingDays": 30,
+  "rentPerDay": 2500,
+  "photos": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrMhMQ7a7qBuazZUkO1B3Pm1zyUIeCLhYEvA&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReEj6OjC0GEHAtXL1IKGZltQcZMUOMa4n4DwgYMGRb7GN3gZDka4-rBNuHeQ9rq2mawxI&usqp=CAU",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVdC85loHY_500EoP_ajzXCz2bZ_s0ExI-dvlIZEGQwpuYuYvgZVQydUTxt3tRrIBj5yk&usqp=CAU"
+  ],
+  "bookings": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6690cfadcb4e41acb678f52b"
+  },
+  "owner": {
+    "$oid": "6690ce4bcb4e41acb678f51b"
+  },
+  "name": " Amber Abode",
+  "address": "Karur",
+  "floorSize": 200,
+  "numberOfBeds": 2,
+  "amenities": [
+    "Non-Ac",
+    "Free-Wifi"
+  ],
+  "minBookingDays": 1,
+  "maxBookingDays": 10,
+  "rentPerDay": 1000,
+  "photos": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_dAorby6mJkptZ_n5P6kPSfG4sNzZrOLCPg&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Ehkcj8hg6QQkZIDatJ7wFz5h1SdEDpgZqQ&s"
+  ],
+  "bookings": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6690d01dcb4e41acb678f52f"
+  },
+  "owner": {
+    "$oid": "6690ce4bcb4e41acb678f51b"
+  },
+  "name": " Crimson Crest",
+  "address": "Hosur",
+  "floorSize": 120,
+  "numberOfBeds": 1,
+  "amenities": [
+    "Ac",
+    "Non-Ac"
+  ],
+  "minBookingDays": 1,
+  "maxBookingDays": 25,
+  "rentPerDay": 800,
+  "photos": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiOBE3lfV_SbCukFYDuOepB75BV1uiouZ6AQ&s"
+  ],
+  "bookings": [],
+  "__v": 0
+}]

@@ -79,10 +79,10 @@ const OwnerBooking = () => {
                   <TableCell style={{ textAlign: 'center' }}>{room.floorSize || 'Loading...'}</TableCell>
                   <TableCell style={{ textAlign: 'center' }}>{room.numberOfBeds || 'Loading...'}</TableCell>
                   <TableCell style={{ textAlign: 'center' }}>{room.amenities ? room.amenities.join(', ') : 'Loading...'}</TableCell>
-                  <TableCell style={{ textAlign: 'center' }}>{room.rentPerDay ? `$${room.rentPerDay}` : 'Loading...'}</TableCell>
+                  <TableCell style={{ textAlign: 'center' }}>{room.rentPerDay ? `₹ ${room.rentPerDay}` : 'Loading...'}</TableCell>
                   <TableCell style={{ textAlign: 'center' }}>{booking.startDate}</TableCell>
                   <TableCell style={{ textAlign: 'center' }}>{booking.endDate}</TableCell>
-                  <TableCell style={{ textAlign: 'center' }}>{booking.totalAmount}</TableCell>
+                  <TableCell style={{ textAlign: 'center' }}>₹ {booking.totalAmount}</TableCell>
                 </TableRow>
               );
             })}
