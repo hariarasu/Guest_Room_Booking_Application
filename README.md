@@ -58,4 +58,4 @@ nodemon server.js
 ```
 
 ## Sample Data
-Sample Data is in the Model Page
+Sample Data are in the Assest folder
