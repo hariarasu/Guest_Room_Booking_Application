@@ -68,10 +68,10 @@ Go to login page enter
   - password=`admin123`
 
 #### 6. Registration
- To be a house owner choice role as owner
- To be a user choice role as user
+To be a house owner choose role as **Owner**.\
+To be a user choose role as **User**.
 
 ## Sample DB Data
-Sample data are in Assest folder
-connect mongodb with url mongodb://localhost:27017/G-Room
-Load the json file in corresponding collection names
+Sample data are in Assest folder.\
+connect mongodb with url `mongodb://localhost:27017/G-Room`\
+Load the json file in corresponding collection names.
