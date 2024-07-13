@@ -3,8 +3,9 @@
 This is an MERN Application for room booking service. It provides a platform for users to book their rooms and view booking details. Admins can manage their rooms and see their booked rooms.
 
 ## User Roles
- 1. Admin: The Admin role manage their rooms like add, edit, delete rooms and view booking status of their rooms.
- 2. Customer: The Customer role can add new bookings, view the status and history of their bookings.
+ 1. Admin: The Admin can manage all the rooms like update and delete rooms. Can view booking status of all rooms.
+ 1. Owner: The Owner can manage their rooms like add, edit, delete rooms and view booking status of their rooms.
+ 2. Customer: The Customer can make new bookings, view the status and history of their bookings.
 
 ## Features
 - Authentication
@@ -32,7 +33,7 @@ This is an MERN Application for room booking service. It provides a platform for
 ## Login
 - Choice the login role either customer or house owner
 - Customer `Respective customer mails`
-- Admin `House owner mail`
+- Owner `House owner mail`
 
 ## Getting Started
 
@@ -67,7 +68,7 @@ Go to login page enter
   - Gmail=`admin@gmail.com`
   - password=`admin123`
 
-#### 6. Registration
+#### 6. Registration 
 To be a house owner choose role as **Owner**.\
 To be a user choose role as **User**.
 
