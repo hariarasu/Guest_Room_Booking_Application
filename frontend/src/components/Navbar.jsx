@@ -38,7 +38,7 @@ const Navbar = () => {
           )}
           {auth && (
             <>
-            <Link to={role === 'owner' ? "/bookings/owner" :role==='user'? "/bookings/user":"bookings/admin"} className="block mt-4 lg:inline-block lg:mt-0 text-gray-200 hover:text-white mr-4 cursor-pointer">
+            <Link to={role === 'owner' ? "/bookings/owner" :role=='user'? "/bookings/user":"bookings/admin"} className="block mt-4 lg:inline-block lg:mt-0 text-gray-200 hover:text-white mr-4 cursor-pointer">
             Booking
           </Link>
             <button
